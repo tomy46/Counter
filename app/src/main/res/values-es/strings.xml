@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Counter App Argentina</string>
+    <string name="welcome_text">Bienvenido</string>
+    <string name="email_placeholder">Correo electrónico</string>
+    <string name="password_placeholder">Contraseña</string>
+    <string name="login_button">INGRESAR</string>
+
+    <string  name="start_button">COMENZAR</string>
+    <string  name="submit_button">ENVIAR</string>
+    <string name="explain_text">Aqui aparecera una palabra. Deberas copiarla lo mas rapido que puedas.</string>
+    <string name="word_input">Escribi una palabra...</string>
+
+    <string name="holand">Holanda</string>
+    <string name="truck">Camion</string>
+    <string name="decoration">Decoracion</string>
+    <string name="time">Tiempo</string>
+    <string name="register_button">UNIRSE</string>
+    <string name="wrong_word">Palabra incorrecta</string>
+
+    <string name="password_error">Contraseña requerida.</string>
+    <string name="email_error">Correo electrónico requerido.</string>
+</resources>

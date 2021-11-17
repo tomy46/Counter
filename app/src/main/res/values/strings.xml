@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="welcome_text">Bienvenido</string>
+    <string name="email_placeholder">Email</string>
+    <string name="password_placeholder">Password</string>
+    <string name="login_button">LOGIN</string>
+    <string name="start_button">START</string>
+    <string name="submit_button">SUBMIT</string>
+    <string name="explain_text">Here a word will appear. You should copy it as fast as you can.</string>
+    <string name="word_input">Type a word.</string>
+    <string name="holand">Netherlands</string>
+    <string name="truck">Truck</string>
+    <string name="decoration">decoration</string>
+    <string name="time">Time</string>
+    <string name="wrong_word">Wrong word!</string>
+
+    <string name="register_button">JOIN</string>
+    <string name="password_error">Password is required.</string>
+    <string name="email_error">Email is required.</string>
+
+</resources>
